@@ -1,0 +1,72 @@
+PARA BRENDA, CON TODO MI AMOR
+Un regalo de cumpleaños de Christoper para su esposita hermosa.
+
+CÓMO VERLO EN VISUAL STUDIO CODE
+
+1. Extrae TODO el ZIP. No abras index.html desde dentro del archivo ZIP.
+2. En Visual Studio Code, elige Archivo > Abrir carpeta y selecciona
+   la carpeta brenda-cumpleanos.
+3. Abre index.html. Puedes hacer clic derecho > Open with Live Server
+   si ya tienes la extensión Live Server instalada.
+4. También puedes abrir index.html directamente con Chrome, Edge
+   o Firefox desde el explorador de archivos. No necesitas instalar
+   Node.js, paquetes ni dependencias.
+
+Conserva juntos index.html, styles.css, script.js, config.js y assets.
+La página funciona sin conexión a Internet, incluidos fotos, videos,
+tipografías, dedicatoria y música. Se adapta a computadoras y celulares.
+
+QUÉ INCLUYE
+
+- Una carta que sale de un sobre al tocar el corazón.
+- Las 8 fotos y los 10 videos enviados, con vista ampliada.
+- Videos sin su audio original para que ninguna canción se mezcle.
+- El audio enviado, con reducción suave de ruido, volumen ajustado
+  y una melodía instrumental original de fondo.
+- Después de la dedicatoria continúa la melodía instrumental.
+- Razones de amor que cambian al pulsar el botón.
+- Una tortita con velitas y una sorpresa de cumpleaños.
+- Botones para reproducir, pausar, mover el audio y ajustar el volumen.
+
+CÓMO FUNCIONA EL SONIDO
+
+La página empieza en silencio. Al pulsar «Nuestra música» o el botón
+de la dedicatoria, se escucha el mensaje con música de fondo.
+Al terminar el mensaje, sigue la melodía instrumental en bucle.
+El botón «Nuestra música» pausa o continúa el sonido actual.
+El botón de la dedicatoria permite volver a escuchar el mensaje.
+Abrir un video NO inicia la dedicatoria ni la música. Los 10 videos
+del regalo no contienen pista de audio.
+
+ARCHIVOS PARA EDITAR
+
+index.html  : carta, dedicatorias y contenido principal.
+styles.css  : colores, diseño, tamaños, animaciones y versión móvil.
+script.js   : sobre, álbum, reproducción, mensajes y velitas.
+config.js   : rutas de la dedicatoria, música y volumen inicial.
+assets/fotos/   : las 8 fotos originales.
+assets/videos/  : los 10 videos sin audio, compatibles con el navegador.
+assets/posters/ : miniaturas de los videos.
+assets/musica/  : los 3 archivos MP3 descritos a continuación.
+assets/fuentes/: tipografías incluidas para funcionar sin Internet.
+
+AUDIO INCLUIDO
+
+dedicatoria-con-musica.mp3 : el audio enviado con edición suave y música.
+dedicatoria-voz.mp3        : la versión editada sin la melodía añadida.
+melodia-para-brenda.mp3    : la melodía instrumental original de fondo.
+
+Si prefieres otra canción, coloca el nuevo MP3 en assets/musica y cambia
+su ruta en config.js. Si cambias solo «musica», cambiará lo que suena
+DESPUÉS de la dedicatoria; la melodía ya mezclada en el primer MP3
+seguirá siendo la misma. Para cambiar esa mezcla hay que editar el audio.
+
+No se ha añadido ninguna canción comercial descargada de Internet.
+El acompañamiento instrumental es una composición sencilla original.
+El audio proporcionado conserva su contenido y su voz originales.
+
+Para compartir el regalo como un enlace será necesario publicarlo
+en un alojamiento web. Este paquete está preparado para abrirlo
+y editarlo en tu computadora.
+
+Con amor: «Feliz cumpleaños, mi Brenda. Te amo muchísimo».
